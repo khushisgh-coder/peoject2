@@ -1,2 +1,2 @@
 # new project
-this project is ccreated on local system
+this project is ccreated on local system  by khushi singh
